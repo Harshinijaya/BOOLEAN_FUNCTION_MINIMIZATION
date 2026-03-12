@@ -39,7 +39,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 
-Developed by: RegisterNumber:*/
+
 
 
 **RTL realization**
