@@ -15,26 +15,14 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Software – Quartus prime**
 ![WhatsApp Image 2026-03-12 at 11 28 20 AM](https://github.com/user-attachments/assets/6e81dab4-f500-4c76-a6db-0fdfb1a35d7e)
-
-
-
-
-
 **Procedure**
 
 1.	Type the program in Quartus software.
-
 2.	Compile and run the program.
-
 3.	Generate the RTL schematic and save the logic diagram.
-
 4.	Create nodes for inputs and outputs to generate the timing diagram.
-
 5.	For different input combinations generate the timing diagram.
-
-
 **Program:**
-
 ![WhatsApp Image 2026-03-12 at 11 53 48 AM (1)](https://github.com/user-attachments/assets/639d21e2-c519-4ecc-ae93-5e47983e059d)
 **RTL realization**
 ![WhatsApp Image 2026-03-12 at 11 53 48 AM (2)](https://github.com/user-attachments/assets/e5d56059-4cb5-4aaa-b6d2-cab69936d6fc)
